@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Rotation : MonoBehaviour
+public class Turner : MonoBehaviour
 {
     [SerializeField] private float _speed = 1f;
 
